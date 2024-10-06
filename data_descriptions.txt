@@ -1,0 +1,135 @@
+Column_name              Column_typeData_typeDescription
+                                             The age of
+                                             the user's
+                                             account in
+AccountAge               Feature    integer months.
+                                             The amount
+                                             charged to
+                                             the user on
+                                             a monthly
+MonthlyCharges           Feature    float    basis.
+                                             The total
+                                             charges
+                                             incurred by
+                                             the user
+                                             over the
+                                             account's
+TotalCharges             Feature    float    lifetime.
+                                             The type of
+                                             subscription
+                                             chosen by
+                                             the user
+                                             (Basic,
+                                             Standard,
+                                             or
+SubscriptionType         Feature    object   Premium).
+                                             The method
+                                             of payment
+                                             used by the
+PaymentMethod            Feature    string   user.
+                                             Indicates
+                                             whether the
+                                             user has
+                                             opted for
+                                             paperless
+                                             billing (Yes
+PaperlessBilling         Feature    string   or No).
+                                             The type of
+                                             content
+                                             preferred
+                                             by the user
+                                             (Movies, TV
+                                             Shows, or
+ContentType              Feature    string   Both).
+                                             Indicates
+                                             whether the
+                                             user has
+                                             access to
+                                             the service
+                                             on multiple
+                                             devices
+MultiDeviceAccess        Feature    string   (Yes or No).
+                                             The type of
+                                             device
+                                             registered
+                                             by the user
+                                             (TV, Mobile,
+                                             Tablet, or
+DeviceRegistered         Feature    string   Computer).
+                                             The
+                                             number of
+                                             hours the
+                                             user
+                                             spends
+                                             watching
+                                             content per
+ViewingHoursPerWeek      Feature    float    week.
+                                             The
+                                             average
+                                             duration of
+                                             each
+                                             viewing
+                                             session in
+AverageViewingDuration   Feature    float    minutes.
+                                                The
+                                                number of
+                                                content
+                                                downloads
+                                                by the user
+                                                per month.
+ContentDownloadsPerMonthFeature       integer
+                                                The
+                                                preferred
+                                                genre of
+                                                content
+                                                chosen by
+GenrePreference          Feature      string    the user.
+                                                The user's
+                                                rating for
+                                                the service
+                                                on a scale
+UserRating               Feature      float     of 1 to 5.
+                                                The
+                                                number of
+                                                support
+                                                tickets
+                                                raised by
+                                                the user per
+SupportTicketsPerMonth   Feature      integer   month.
+                                                The gender
+                                                of the user
+                                                (Male or
+Gender                   Feature      string    Female).
+                                                The
+                                                number of
+                                                items in the
+                                                user's
+WatchlistSize            Feature      float     watchlist.
+                                                Indicates
+                                                whether
+                                                parental
+                                                control is
+                                                enabled for
+                                                the user
+ParentalControl          Feature      string    (Yes or No).
+                                                Indicates
+                                                whether
+                                                subtitles
+                                                are enabled
+                                                for the user
+SubtitlesEnabled         Feature      string    (Yes or No).
+                                                A unique
+                                                identifier for
+                                                each
+CustomerID               Identifier   string    customer.
+                                                The target
+                                                variable
+                                                indicating
+                                                whether a
+                                                user has
+                                                churned or
+                                                not (1 for
+                                                churned, 0
+                                                for not
+Churn                    Target       integer   churned).
+

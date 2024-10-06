@@ -1,0 +1,2 @@
+AccountAge,MonthlyCharges,TotalCharges,SubscriptionType,PaymentMethod,PaperlessBilling,ContentType,MultiDeviceAccess,DeviceRegistered,ViewingHoursPerWeek,AverageViewingDuration,ContentDownloadsPerMonth,GenrePreference,UserRating,SupportTicketsPerMonth,Gender,WatchlistSize,ParentalControl,SubtitlesEnabled,CustomerID
+38,17.869373540230356,679.0361945287535,Premium,Mailed check,No,TV Shows,No,TV,29.1263078586664,122.27403066768466,42,Comedy,3.522723965421695,2,Male,23,No,No,O1W6BHP6RM

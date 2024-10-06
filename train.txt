@@ -1,0 +1,2 @@
+AccountAge,MonthlyCharges,TotalCharges,SubscriptionType,PaymentMethod,PaperlessBilling,ContentType,MultiDeviceAccess,DeviceRegistered,ViewingHoursPerWeek,AverageViewingDuration,ContentDownloadsPerMonth,GenrePreference,UserRating,SupportTicketsPerMonth,Gender,WatchlistSize,ParentalControl,SubtitlesEnabled,CustomerID,Churn
+20,11.055215098286784,221.10430196573566,Premium,Mailed check,No,Both,No,Mobile,36.75810391025656,63.53137733399087,10,Sci-Fi,2.1764975145384615,4,Male,3,No,No,CB6SXPNVZA,0
